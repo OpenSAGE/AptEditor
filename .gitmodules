@@ -1,0 +1,3 @@
+[submodule "ext/OpenSAGE"]
+	path = ext/OpenSAGE
+	url = https://github.com/OpenSAGE/OpenSAGE.git
